@@ -4,11 +4,11 @@
 <ul>
   <li>React</li>
   <li>Django</li>
-  <li>JavaScript</li>
+  <li>JavaScript, TypeScript</li>
   <li>HTML/CSS</li>
 </ul>
 <h2>Interests</h2>
-<p>I love programming and am always looking for interesting projects to work on. I'm open to new ideas and enjoy exploring new technologies and frameworks.</p>
+<p>I love programming and always looking for interesting projects to work on. I'm open to new ideas and enjoy exploring new technologies and frameworks.</p>
 <h2>Contact</h2>
 <p>If you have any questions or would like to get in touch, feel free to contact me at:</p>
 <p>mr.mukatai@gmail.com</p>
